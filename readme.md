@@ -39,12 +39,7 @@ For example, if your fork's URL is `git@github.com:***/html-css-git-exercises.gi
 git clone git@github.com:***/html-css-git-exercises.git
 ```
 
-Next, navigate to the repository's directory and open your code editor.
-
-```
-cd html-css-git-exercises
-code .
-```
+Next, open the cloned or downloaded folder with Visual Studio.
 
 When you're done, you should see your code editor with the files open on the left, like the following screenshot.
 
